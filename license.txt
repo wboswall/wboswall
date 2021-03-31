@@ -1,0 +1,31 @@
+Pegasus License v1.0
+Overview
+This licnese covers how the software will be protected but sill be available for community involvement but strictly for acedemia and personal relams and not for commerical and patent uses.  
+Section 1 Protection
+a) the software will be distributed with this license and copyright notice everywhere it goes.  This includes its binaries, source code, libaries and dependencies.  
+b)this software is to be used strictly for personal and academia but not for financial gain such as for commerical uses, or patent use/ ownership and not for sales or to sell for redistribution.  This is strictly forbidden.  
+c) Some binaries, dependencies, source code and libraries may have their own separate license from choosealicense.com.  But this choice is up to the developer/creator of the project.  
+d) Any questions about this license and other licensing questions can be forwared to the creator : wboswall at gmail dot com.  
+
+Section 2 Community Involvment
+a) By all means frell free to contirubte to the project so the porject can eveolve so people can learn together and become better at their programming skills.  
+b) If a person sees a specific file, library, dependency, binary that they would like to include in their own project then the person can email the creator.  The email is wboswall at gmail dot com.  
+
+Section 3 The Brass Tacks
+a) This license and the copyright notice must be included at any time the software is modified, distributed, or on a network.
+b) If changes, modifications are made then these changes must be documented in the source code with the person's full name and date who made the modification. 
+c) Full disclosure of the source code must be produced when distributed with the project or any of its files.  
+d) If the software relies on a library to run it; then the copyright notice and license must be attached to it.  If changes are made to the library then those changes must be documented along with the full name and date.  
+
+Section 4 Limitations
+a) Trademark Use
+  This license explictly sates that it does NOT grant any trademark rigts, even though such licenses without such a statemnt probably do not grant any implicit trademark rights.  
+b) Libility
+    This license includes a limitation of libility.  Furthermore, if changes are made that causes the software to become a virus, slows down electronic equipment, damages electronic equipment, displays logic errors or anyother strange occurance.  Then the creator and developer is not at fault.  The fault is solely upon the person who created that change.  Also if the creator and developer are the same person then that person is not at fault either. 
+c) Patent Use
+  This license explicitly state that it does NOT grant any rights in the patents of contributors.  
+d) Warrenty
+  This license explicitly states that it does NOT provide any warrenty.  
+Section 5 Other
+This license is a custom license that was created to provide a license where the creator and developer or the creator/developer is protected by at the same time allow for open source contribution.  
+This license was developed by consulting choosealicense.com.  
