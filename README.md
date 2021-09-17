@@ -10,6 +10,7 @@
 - import chromium and create a basic web browser: https://tutorialslink.com/Articles/DEVELOPING-CHROMIUM-BASED-BROWSER-IN-Csharp/1468
 - http://www.codeproject.com/KB/mcpp/cppcliintro01.aspx
  using C++ code in CSharp go to https://social.msdn.microsoft.com/Forums/en-US/f18d1d1c-0d14-4ff2-8244-337f58818ef9/how-to-use-c-code-in-c?forum=vssmartdevicesvbcs
+ A very good link for people interested in Computer Science: https://www.computerscience.org/resources/jobs-in-computer-science/
 <!---
 wboswall/wboswall is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
